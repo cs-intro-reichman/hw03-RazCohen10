@@ -20,7 +20,7 @@ public class Calendar {
 	 private static void advance(int InputYear) {
 		 if (dayOfWeek == 1 && year == InputYear)
 		 {
-			 System.out.println(dayOfMonth + "/" + month + "/" + year + " sunday");
+			 System.out.println(dayOfMonth + "/" + month + "/" + year + " Sunday");
 		 }
 		 else if (dayOfWeek != 1  && year == InputYear)
 		 {

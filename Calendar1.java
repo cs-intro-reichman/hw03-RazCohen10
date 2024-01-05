@@ -43,7 +43,7 @@ public class Calendar1 {
 	 private static void advance() {
 		 if (dayOfWeek == 1)
 		 {
-			 System.out.println(dayOfMonth + "/" + month + "/" + year + " sunday");
+			 System.out.println(dayOfMonth + "/" + month + "/" + year + " Sunday");
 		 }
 		 else
 		 {
